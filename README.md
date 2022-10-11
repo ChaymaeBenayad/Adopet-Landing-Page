@@ -1,26 +1,17 @@
-# Adopet Landing Page
-Adopet landing page for people who loves pets and want to adopt one. It is developed using HTML5, CSS3 and JavaScript.
+# Adopet
 
-<h2>Home Section</h2>
+Adopet is a simple and beautiful landing page for an application where people who love pets and want to adopt or people who want to give pets for adoption can meet online. It is developed using HTML5, CSS3, Bootstrap and JavaScript.
+I also used MailChimp because I added a subscribe feature. It is a very popular email marketing platform. I used it to send newsletters and automated emails to the subscribers.
+![mylogo](https://user-images.githubusercontent.com/78702422/194973461-33851c0a-3f7b-4d41-8915-ef94de14ee8b.png)
 
-![8](https://user-images.githubusercontent.com/78702422/146710108-466edd63-f013-42a7-9d14-eb28e6d1375b.jpg)
+## Screenshots
 
-<h2>About Section</h2>
+- Home page:
+  ![adopet-full-screenshot](https://user-images.githubusercontent.com/78702422/194974245-5b8927c2-f903-4452-b4c7-9983d0044942.png)
 
-![Sans5](https://user-images.githubusercontent.com/78702422/146710121-3445f0b1-4cab-41eb-b724-8a333d12ec95.png)
+- Subscribe page:
+  ![adopet-subscribe-page](https://user-images.githubusercontent.com/78702422/194976906-71b533b9-5b45-4ecb-b8ac-d53cd3c897c7.png)
 
-<h2>How It Works Section</h2>
+## Demo
 
-![Sans titre6](https://user-images.githubusercontent.com/78702422/146710143-a8e37fc5-148a-4b1c-ac2e-f52013f81080.png)
-
-<h2>Are You Interested Section</h2>
-
-![Sans titre7](https://user-images.githubusercontent.com/78702422/146710170-2536dc8f-ceea-4850-8faa-a1ca90a7b102.png)
-
-<h2>Subscribe Page</h2>
-
-![Sans titre8](https://user-images.githubusercontent.com/78702422/146710185-63addf01-4072-4547-9506-7c4297e5cf68.png)
-
-<h2>Subscribing Done Successfuly</h2>
-
-![Sans titre9](https://user-images.githubusercontent.com/78702422/146710192-b41ee931-0619-49cc-b0f5-ef8b94cacbc1.png)
+https://adopet-pet-lovers.netlify.app
