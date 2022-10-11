@@ -3,8 +3,6 @@
 Adopet is a simple and beautiful landing page for an application where people who love pets and want to adopt or people who want to give pets for adoption can meet online. It is developed using HTML5, CSS3, Bootstrap and JavaScript.
 I also used MailChimp because I added a subscribe feature. It is a very popular email marketing platform. I used it to send newsletters and automated emails to the subscribers.
 
-![mylogo](https://user-images.githubusercontent.com/78702422/194973461-33851c0a-3f7b-4d41-8915-ef94de14ee8b.png)
-
 ## Screenshots
 
 - Home page:
